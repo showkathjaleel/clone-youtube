@@ -1,0 +1,1 @@
+export const YOUTUBE_DATA_API_URL="https://youtube.googleapis.com/youtube/v3"
